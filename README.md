@@ -2,5 +2,10 @@
 
 - command to start project 
 ```console
-C:\Users\colli\PycharmProjects\webscraping>scrapy startproject quotescraper
+foo@bar:~$ scrapy startproject quotescraper
+```
+
+- command to start scrapping 
+```console
+foo@bar:~$ scrapy crawl quotes
 ```
