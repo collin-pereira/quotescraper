@@ -9,3 +9,8 @@ foo@bar:~$ scrapy startproject quotescraper
 ```console
 foo@bar:~$ scrapy crawl quotes
 ```
+
+- scrapy shell command
+```console
+foo@bar:~$ scrapy shell "http://quotes.toscrape.com/"
+```
